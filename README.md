@@ -1,2 +1,2 @@
 # AWS API CRUD
-*API for Select, Insert, Update and Delete on AWS*
+*API for Create/Insert, Read/Select, Update and Delete on AWS*
